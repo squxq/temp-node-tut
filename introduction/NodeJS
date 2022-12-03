@@ -1,0 +1,20 @@
+NodeJS
+
+Environment to run JS outisde Browser
+Built on Chrome's V8 JS Engine
+Big Community
+Full-Stack
+
+Node JS
+No DOM
+No Window
+Server Side Apps
+Filesystem
+Versions - based on versions
+CommonJS
+
+How do we get node to evaluate our code
+REPL - read evaluate print loop - same as the browsers concole
+CLI - running our app code in node
+
+to get out of the repl we press ctrl+C
